@@ -1,4 +1,4 @@
-# Histopathology Nuclei Segmentation — PyTorch U-Net Starter
+# Histopathology Nuclei Segmentation - PyTorch U-Net Starter
 This repository contains a working **binary segmentation baseline** and dataset preparation tools. It does **not** yet contain results from training on the real MoNuSeg dataset, clinically validated predictions, nucleus instance counting, or whole-slide OpenSlide processing. The demo uses **synthetic circles, not patient tissue**.
 
 ## Goal
